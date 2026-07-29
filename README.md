@@ -18,3 +18,4 @@ python -m http.server 4173
 - 我的：个人数据、提醒、声音和外观设置
 
 当前入口使用 `app-v3.js` 与 `app-v3.css`；旧版文件保留用于设计迭代对照。
+# guiling-app-demo
